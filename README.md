@@ -8,10 +8,7 @@ Building intelligent, scalable and modern software systems with a blend of **Sof
 
 Driven by creating solutions that are **usable, efficient, and future-ready**.
 
----
 
-### 🔗 Portfolio Website — *Coming Soon*  
-📧 trambadiyadiya@gmail.com
 
 </div>
 
