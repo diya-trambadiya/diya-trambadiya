@@ -19,9 +19,8 @@ Driven by creating solutions that are **usable, efficient, and future-ready**.
 
 # 📌 About Me
 
-I’m a **software engineer** passionate about integrating **AI into real-world applications**, building modern full-stack systems, and deploying scalable cloud solutions.
-
-I don’t just code — I design **systems**, build **products**, and solve **problems** using a mix of:
+I'm a software engineer passionate about integrating AI into real-world applications, building modern full-stack systems, and deploying scalable cloud solutions.  
+I focus on **systems**, **architecture**, and **problem-solving**, using:
 
 - Software engineering fundamentals  
 - Clean full-stack architecture  
@@ -29,7 +28,7 @@ I don’t just code — I design **systems**, build **products**, and solve **pr
 - Cloud-native thinking  
 - Modern UI/UX practices  
 
-My goal is to build applications that feel **intelligent**, **fast**, and **purposeful**.
+My goal is to build applications that feel **intelligent, fast, and purposeful**.
 
 ---
 
@@ -50,54 +49,36 @@ My goal is to build applications that feel **intelligent**, **fast**, and **purp
 - MVC Architecture, Middleware, Microservices (learning)
 
 ## 🌐 Full-Stack Web Development
-
-### Frontend
-- React.js, Vite, TailwindCSS  
-- Component design, Routing, State management  
-
-### Backend
-- Node.js, Express.js  
-- Authentication (JWT), Middleware, API Security  
-- REST API Architecture  
-
-### Database
-- MongoDB, Mongoose  
-- Schema design, indexing, aggregation  
-
----
+- **Frontend:** React.js, Vite, TailwindCSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Mongoose, MySQL  
+- REST APIs · Authentication (JWT) · Security · Component design · State management
 
 ## 🤖 AI & Machine Learning
 - ML Algorithms: RF, GB, ANN, LSTM, GRU  
-- Data preprocessing & Feature Engineering  
-- Time-series forecasting  
-- Churn prediction & behavioral insights  
-- Model evaluation (RMSE, MAPE)  
-- Building AI-enabled features for modern apps  
-
----
-
+- Data preprocessing & Feature Engineering
+- Time-series forecasting · Churn prediction · Model evaluation (RMSE, MAPE)  
+  
 ## ☁ Cloud & DevOps
 - AWS (EC2, S3 basics), Render, Vercel, Netlify  
-- Docker (basics)  
-- CI/CD with GitHub Actions  
-- Deployment pipelines  
+- Docker (basics) · GitHub Actions · Deployment pipelines  
 
 ---
 
 # 🚀 Highlighted Projects
 
 ### 🛋️ RentEasy – AI-Enhanced Furniture Renting Platform (MERN)
-A smart renting platform with location filtering, admin dashboard, clean architecture, and future AI modules for recommendation and demand prediction.
+A smart renting platform with location filtering, admin dashboard, clean architecture, and future AI modules.
 
 ---
 
 ### ❤️ DonateEase – Donation Management Platform (Full-Stack)
-A streamlined multi donation type management system with donor workflows, admin verification, transparent record handling, and clean UI for NGOs & individuals.
+A multi donation type management system with donor workflows, admin verification, transparent record handling, and clean UI for NGOs & individuals.
 
 ---
 
 ### 🏫 Campus Portal (Full-Stack)
-A structured student portal featuring role-based access, complaint system, facility management, avaibility checking, lost&found and efficient data handling.
+A student portal featuring role-based access, complaint system, facility management, avaibility checking, lost&found and efficient data handling.
 
 ---
 
@@ -106,33 +87,17 @@ A behavior analytics system that identifies **where users drop off**, session ch
 
 ---
 
-### 🔮 Predictive Customer Retention System — E-commerce Churn (ML)
-Churn prediction using machine learning models to identify at-risk customers in e-commerce platforms with actionable insights for retention.
+## 🛠 Tools & Technologies
+
+**Languages:** `Java` `Python` `JavaScript`  
+**Frameworks:** `React` `Express` `Node` `Tailwind` `Vite`  
+**Databases:** `MongoDB` `MySQL`  
+**ML/AI:** `Scikit-learn` `Pandas` `NumPy` `TensorFlow (basic)`  
+**Cloud:** `AWS` `Render` `Vercel` `Netlify`  
+**Tools:** `Git` `Postman` `Figma` `VS Code` `Docker (learning)`
 
 ---
 
-
-# 🛠 Tools & Technologies
-
-### Languages  
-`Java` `Python` `JavaScript`
-
-### Libraries & Frameworks  
-`React` `Express` `Node` `Tailwind` `Vite`
-
-### Databases  
-`MongoDB` `MySQL`
-
-### ML/AI  
-`Scikit-learn` `Pandas` `NumPy` `TensorFlow (basic)`
-
-### Cloud  
-`AWS` `Render` `Vercel` `Netlify`
-
-### Other Tools  
-`Git` `Figma` `Postman` `VS Code` `Docker (learning)`
-
----
 # 📚 Currently Strengthening
 - System design & backend architecture
 - Microservices fundamentals
